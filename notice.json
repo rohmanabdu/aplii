@@ -1,7 +1,7 @@
 {
   "noticeId": "20260918-005",
   "enabled": true,
-  "type": "maintenance",
+  "type": "info",
   "title": "Tivora TV",
   "message": "Terima kasih telah menggunakan Tivora TV. Enjoy It!",
   "version": "",

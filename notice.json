@@ -1,9 +1,11 @@
 {
-  "noticeId": "20260918-007",
+  "noticeId": "20260918-008",
   "enabled": true,
   "type": "info",
-  "title": "Tivora TV",
+  "title": "Tivora TV V1.0",
   "message": "Terima kasih telah menggunakan Tivora TV. Enjoy It!
+
+Seringlah klik refresh siaran
 Mohon maaf bila masih banyak kekurangan 🙏",
   "version": "",
   "url": "",

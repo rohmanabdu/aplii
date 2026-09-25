@@ -1,12 +1,11 @@
 {
-  "noticeId": "20260925-001",
+  "noticeId": "20260925-002",
   "enabled": true,
-  "type": "info",
-  "title": "Tivora TV V1.0",
-  "message": "Live event sudah tersedia 
-Silahkan di refresh 
-Mohon maaf jika masih ada yang error/buffering 🙏",
+  "type": "update",
+  "title": "🚀 Tivora TV V1.0",
+  "message": "Versi terbaru telah tersedia
+silahkan update",
   "version": "",
-  "url": "",
+  "url": "https://sfile.co/LrW2cehhroj",
   "createdAt": "2026-09-24T19:00:00+07:00"
 }

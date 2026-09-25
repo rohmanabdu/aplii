@@ -1,12 +1,11 @@
 {
-  "noticeId": "20260924-001",
+  "noticeId": "20260925-001",
   "enabled": true,
   "type": "info",
   "title": "Tivora TV V1.0",
-  "message": "Terima kasih telah menggunakan Tivora TV. Enjoy It!
-
-Mohon maaf bila masih banyak channel yang error🙏 
-Sedang dalam tahap pengembangan 🙏",
+  "message": "Live event sudah tersedia 
+Silahkan di refresh 
+Mohon maaf jika masih ada yang error/buffering 🙏",
   "version": "",
   "url": "",
   "createdAt": "2026-09-24T19:00:00+07:00"

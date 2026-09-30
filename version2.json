@@ -8,5 +8,5 @@
     "Perbaikan player",
     "Peningkatan performa"
   ],
-  "mandatory": true
+  "mandatory": false
 }

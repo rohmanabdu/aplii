@@ -1,12 +1,10 @@
 {
-  "noticeId": "20260925-005",
+  "noticeId": "20260930-001",
   "enabled": true,
-  "type": "info",
+  "type": "maintenance",
   "title": "🚀 Tivora v1.0",
-  "message": "Terima kasih telah menggunakan Tivora TV. Nikmati berbagai siaran favorit Anda dengan nyaman. Selamat menikmati tontonan Anda! 📺✨
-Mohon maaf jika masih ada kekurangan 🙏
-link download update ada di grup telegram 👇",
+  "message": Kami sedang melakukan pemeliharaan dan peningkatan sistem untuk memberikan pengalaman menonton yang lebih nyaman dan stabil. Beberapa fitur atau siaran mungkin tidak dapat digunakan sementara waktu. Mohon tunggu beberapa saat. Terima kasih atas pengertian dan kesabarannya. 🙏",
   "version": "",
-  "url": "https://sfile.co/LrW2cehhroj",
+  "url": "",
   "createdAt": "2026-09-25T19:00:00+07:00"
 }

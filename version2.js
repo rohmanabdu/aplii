@@ -1,8 +1,8 @@
 {
   "versionCode": 2,
   "versionName": "1.1.1",
-  "apkUrl": "https://raw.githubusercontent.com/rohmanabdu/aplii/refs/heads/main/app-release.apk",
-  "sha256": "HASH_SHA256_APK",
+  "apkUrl": "https://raw.githubusercontent.com/rohmanabdu/aplii/main/app-release.apk",
+  "sha256": "",
   "releaseNotes": [
     "Perbaikan navigasi remote TV",
     "Perbaikan player",

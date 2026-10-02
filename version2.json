@@ -1,7 +1,7 @@
 {
   "versionCode": 4,
   "versionName": "1.1.1",
-  "apkUrl": "https://github.com/rohmanabdu/aplii/releases/download/v1.0/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/rohmanabdu/aplii/main/app-release.apk",
   "sha256": "",
   "releaseNotes": [
     "Perbaikan bug remote TV",

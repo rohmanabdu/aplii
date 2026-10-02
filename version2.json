@@ -1,11 +1,11 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "1.1.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/rohmanabdu/aplii@main/app-release.apk",
+  "apkUrl": "https://github.com/rohmanabdu/aplii/releases/download/v1.0/app-release.apk",
   "sha256": "",
   "releaseNotes": [
-    "Perbaikan navigasi remote TV",
-    "Perbaikan player",
+    "Perbaikan bug remote TV",
+    "Perbaikan player blank hitam",
     "Peningkatan performa"
   ],
   "mandatory": false

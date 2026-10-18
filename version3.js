@@ -1,5 +1,5 @@
 {
-  versi kitkat
+  
   "versionCode": 2,
   "versionName": "1.1.1",
   "apkUrl": "https://cdn.jsdelivr.net/gh/rohmanabdu/aplii@main/app-release.apk",

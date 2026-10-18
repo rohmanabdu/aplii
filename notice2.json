@@ -1,12 +1,11 @@
 {
-  "noticeId": "20261012-003",
+  "noticeId": "20261018-001",
   "enabled": true,
-  "type": "info",
-  "title": "❤️ Dukung Tivora TV",
-  "message": "Terimakasih Telah Menggunakan Tivora TV 🥳
-Kami berusaha menghadirkan tontonan berkualitas gratis dan nyaman tanpa iklan.
-Dukung keberlangsungan layanan kami dengan donasi melalui QRIS yang tersedia di siaran pertama.
-Sekecil apapun dukungan Anda sangat berarti untuk kami dan Setiap dukungan Anda adalah energi bagi kami untuk terus berkembang 🙏",
+  "type": "maintenance",
+  "title": "🛠 Sedang Dalam Perbaikan",
+  "message": "Mohon maaf atas ketidaknyamanan yang terjadi. Saat ini, Tivora TV sedang menjalani perbaikan/pemeliharaan dan peningkatan sistem untuk memberikan pengalaman menonton yang lebih baik, stabil, dan nyaman.
+Beberapa fitur atau saluran mungkin tidak tersedia untuk sementara waktu.
+Terima kasih atas pengertiannya. Kami akan segera kembali melayani Anda 🙏",
   "version": "v1.1",
   "url": "https://sfile.co/fIGNsMwGjBO",
   "createdAt": "2026-10-02T19:00:00+07:00"

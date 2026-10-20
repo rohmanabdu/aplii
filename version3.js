@@ -1,7 +1,7 @@
 {
   
   "versionCode": 2,
-  "versionName": "1.1.1",
+  "versionName": "1.2",
   "apkUrl": "https://cdn.jsdelivr.net/gh/rohmanabdu/aplii@main/app-release.apk",
   "sha256": "",
   "releaseNotes": [

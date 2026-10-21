@@ -1,12 +1,12 @@
 {
-  "noticeId": "20261018-005",
+  "noticeId": "20261021-001",
   "enabled": true,
-  "type": "maintenance",
-  "title": "🛠 Sedang Dalam Perbaikan",
-  "message": "Mohon maaf atas ke tidak nyamanan yang terjadi. Saat ini, Tivora TV sedang menjalani perbaikan/pemeliharaan dan peningkatan sistem untuk memberikan pengalaman menonton yang lebih baik, stabil, dan nyaman.
-Beberapa fitur dan untuk sementara waktu layanan kami tidak tersedia.
-Terima kasih atas pengertiannya. Kami akan segera kembali melayani Anda 🙏",
+  "type": "update",
+  "title": "🎉 Versi Baru Telah Tersedia V1.2 !",
+  "message": "Halo Sobat Tivora! 👋\nKabar baik! Pembaruan terbaru Tivora TV telah tersedia. 📺✨
+Segera lakukan pembaruan untuk menikmati berbagai perbaikan dan peningkatan performa yang telah kami siapkan.
+Yuk, perbarui sekarang dengan menekan tombol download di bawah ini. 👇",
   "version": "v1.1",
-  "url": "https://sfile.co/fIGNsMwGjBO",
+  "url": "https://sfile.co/X8jfmW7RwXY",
   "createdAt": "2026-10-02T19:00:00+07:00"
 }

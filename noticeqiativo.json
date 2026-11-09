@@ -1,11 +1,10 @@
 {
-  "noticeId": "20261109-001",
+  "noticeId": "20261109-004",
   "enabled": true,
   "type": "info",
   "title": "🎉 Hai selamat datang",
-  "message": "Halo Sobat Qia! 👋\nTerima Kasih Telah Menggunakan Qia Tv\n\nKlik tombol di bawah untuk lihat gambar donasi ya!",
-  "imageUrl": "https://raw.githubusercontent.com/rohmanabdu/aplii/refs/heads/main/donate.jpg",
+  "message": "Halo Sobat Qia! 👋\nTerima Kasih Telah Menggunakan Qia Tv\n\nDukung Qia Tv biar tetap GRATIS & lancar ya! 🙏\n\nDonasi bisa lewat menu Donasi ++ di depan, atau scan QRIS di gambar donasi kita.\n\nTerima kasih buat yang sudah donasi, semoga rezekinya lancar! ❤️",
   "version": "",
-  "url": "https://raw.githubusercontent.com/rohmanabdu/aplii/refs/heads/main/donate.jpg",
+  "url": "",
   "createdAt": "2026-10-02T19:00:00+07:00"
 }

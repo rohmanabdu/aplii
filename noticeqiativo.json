@@ -3,9 +3,9 @@
   "enabled": true,
   "type": "info",
   "title": "🎉 Hai selamat datang",
-  "message": "Halo Sobat Qia! 👋\nTerima Kasih Telah Menggunakan Qia Tv",
+  "message": "Halo Sobat Qia! 👋\nTerima Kasih Telah Menggunakan Qia Tv\n\nKlik tombol di bawah untuk lihat gambar donasi ya!",
   "imageUrl": "https://raw.githubusercontent.com/rohmanabdu/aplii/refs/heads/main/donate.jpg",
   "version": "",
-  "url": "",
+  "url": "https://raw.githubusercontent.com/rohmanabdu/aplii/refs/heads/main/donate.jpg",
   "createdAt": "2026-10-02T19:00:00+07:00"
 }
